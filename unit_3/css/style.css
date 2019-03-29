@@ -11,6 +11,7 @@ h1, h3 {
 
 h1 {
 	font-weight: bold;
+	font-family: 'Righteous', cursive;
 
 }
 
@@ -23,7 +24,7 @@ h3 {
 }
 
 p {
-	font-family: "Courier New", monospace;
+	font-family: 'Righteous', cursive;
 }
 
 .important {
